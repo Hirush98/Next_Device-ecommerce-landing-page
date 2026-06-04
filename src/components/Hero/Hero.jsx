@@ -3,6 +3,7 @@ import Slider from "react-slick";
 import Image1 from "../../assets/hero/headphone.png";
 import Image2 from "../../assets/category/vr.png";
 import Image3 from "../../assets/category/macbook.png";
+import Button from "../Shared/Button";
 
 
 const HeroData = [
